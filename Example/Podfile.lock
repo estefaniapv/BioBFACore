@@ -1,0 +1,16 @@
+PODS:
+  - BioBFACore (0.1.0)
+
+DEPENDENCIES:
+  - BioBFACore (from `../`)
+
+EXTERNAL SOURCES:
+  BioBFACore:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BioBFACore: 430f9918cd41c6994e2cc9c66c8b72a3b3f7ea33
+
+PODFILE CHECKSUM: 1bdfe811b937d91848d00bf4a13742431cfae1b2
+
+COCOAPODS: 1.10.0.beta.2
