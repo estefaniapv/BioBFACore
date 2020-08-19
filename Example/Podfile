@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BioBFACore_Example' do
+  pod 'BioBFACore', :path => '../'
+
+  target 'BioBFACore_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
